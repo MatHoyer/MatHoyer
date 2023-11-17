@@ -1,4 +1,2 @@
 
-## Most Used Language
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatHoyer&layout=compact)](https://github.com/MatHoyer/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatHoyer&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
