@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Mathieu 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=500&height=50&lines=Mathieu+Hoyer;Full-stack+developer" alt="Mathieu Hoyer — Full-stack developer" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,docker,git,linux&perline=9" alt="Tech stack" />
