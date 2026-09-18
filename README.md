@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="./metrics/overview.svg" alt="GitHub overview and languages" />
+  <img src="./metrics/overview.svg" alt="GitHub overview" />
+</p>
+
+<p align="center">
+  <img src="./metrics/languages.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
