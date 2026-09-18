@@ -13,9 +13,5 @@
 </p>
 
 <p align="center">
-  <img src="./metrics/pinned.svg" alt="Pinned repositories" />
-</p>
-
-<p align="center">
   <img src="./metrics/lines.svg" alt="Lines of code" />
 </p>
