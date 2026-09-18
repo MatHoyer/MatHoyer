@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="./metrics/overview.svg" alt="GitHub overview, languages and habits" />
+  <img src="./metrics/overview.svg" alt="GitHub overview and languages" />
 </p>
