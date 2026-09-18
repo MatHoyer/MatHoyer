@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  I learn whatever it takes to make someone's life easier.<br />
+  The complexity is my job. The simplicity is yours.
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,redis,docker,kubernetes,git,linux&perline=9" alt="Tech stack" />
 </p>
 
