@@ -39,6 +39,7 @@ jobs:
           committer_branch: main
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
+          repositories_batch: 25
 
       - name: Languages
         uses: lowlighter/metrics@latest
@@ -52,8 +53,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          debug: yes
-          plugins_errors_fatal: yes
+          repositories_batch: 25
 
       - name: Lines of code
         uses: lowlighter/metrics@latest
@@ -66,3 +66,4 @@ jobs:
           committer_branch: main
           plugin_lines: yes
           plugin_lines_sections: base
+          repositories_batch: 25
