@@ -1,1 +1,9 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatHoyer&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi, I'm Mathieu 👋</h1>
+
+<p align="center">
+  <img src="./metrics/isometric.svg" alt="Isometric contribution calendar" />
+</p>
+
+<p align="center">
+  <img src="./metrics/overview.svg" alt="GitHub overview, languages and habits" />
+</p>
