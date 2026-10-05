@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.78201582339926" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="387.78201582339926" y="0" width="49.85500734565178" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="437.637023169051" y="0" width="8.528757612075637" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="446.16578078112667" y="0" width="4.311931471815405" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="450.47771225294207" y="0" width="4.202711725418007" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.6804239783601" y="0" width="2.1411611840621525" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.8215851624223" y="0" width="1.7226710102386131" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.54425617266094" y="0" width="1.4557438273391434" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.6559940821506" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="383.6559940821506" y="0" width="54.069275943514036" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="437.72527002566466" y="0" width="8.383271134072114" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="446.1085411597367" y="0" width="4.238377063100734" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="450.3469182228375" y="0" width="4.131020424667538" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.47793864750497" y="0" width="2.104636520837347" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.5825751683423" y="0" width="1.7241397354569088" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="458.3067149037993" y="0" width="1.693285096200731" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>84.3%</div>
+                                <div>83.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>1.85%</div>
+                                <div>1.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,15 +62,15 @@
                                 CSS
                             </div>
                             <small>
-                                <div>0.91%</div>
+                                <div>0.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#336790" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Makefile
+                                PLpgSQL
                             </div>
                             <small>
                                 <div>0.37%</div>
@@ -86,7 +86,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>10.84%</div>
+                                <div>11.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>0.94%</div>
+                                <div>0.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,18 +108,18 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>0.47%</div>
+                                <div>0.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#336790" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                PLpgSQL
+                                Makefile
                             </div>
                             <small>
-                                <div>0.32%</div>
+                                <div>0.37%</div>
                             </small>
                         </div>
                     </section>
