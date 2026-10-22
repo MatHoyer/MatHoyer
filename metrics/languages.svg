@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="348.599363372009" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="348.599363372009" y="0" width="96.80468683221075" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="445.40405020421974" y="0" width="4.298479044137492" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="449.7025292483572" y="0" width="3.468867172525513" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="453.17139642088273" y="0" width="2.559772371164792" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="455.7311687920475" y="0" width="1.826137895696316" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="457.5573066877438" y="0" width="1.8156222337516814" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.3729289214955" y="0" width="0.6270710785044548" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="348.11293787051756" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="348.11293787051756" y="0" width="97.34703631720421" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="445.4599741877218" y="0" width="4.28847814346867" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="449.74845233119044" y="0" width="3.4607964582869313" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="453.20924878947733" y="0" width="2.5538167694377742" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="455.7630655589151" y="0" width="1.8218891780650555" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="457.5849547369802" y="0" width="1.8113979820046315" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.3963527189848" y="0" width="0.603647281015161" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>75.78%</div>
+                                <div>75.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>21.04%</div>
+                                <div>21.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,12 +114,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                HTML
                             </div>
                             <small>
-                                <div>0.14%</div>
+                                <div>0.13%</div>
                             </small>
                         </div>
                     </section>
