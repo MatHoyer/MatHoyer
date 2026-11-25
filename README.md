@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,redis,docker,kubernetes,git,linux&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,ts,react,nodejs,postgres,redis,docker,kubernetes,git,linux&perline=10" alt="Tech stack" />
 </p>
 
 <p align="center">
